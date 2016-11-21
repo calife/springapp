@@ -8,7 +8,7 @@ Template example for Spring 4 MVC + JSP View with pure Java Configuration (no XM
 
 ###2. To Run this project locally
 ```shell
-$ git clone https://github.com/viralpatel/spring4-mvc-example
+$ git clone https://github.com/calife/springapp.git
 $ mvn tomcat7:run
 ```
 Access ```http://localhost:8080/springapp/hello```
